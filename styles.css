@@ -1,0 +1,43 @@
+body{
+    background-color: rgb(43, 170, 170);
+}
+
+h1{
+    font-family: Georgia, sans-serif;
+    text-align: center;
+}
+
+h2, h3, h4{
+    font-family: "Courier New", sans-serif;
+    font-weight: 800;
+    text-align: center;
+}
+
+ul, ol{
+    font-family: "Times New Roman", sans-serif;
+    
+}
+
+#lasagna{
+    width: 400px;
+    height: auto;
+    margin-left: 230px;
+    padding: 20px;
+    border: 5px solid darkgreen;
+}
+
+#couscous{
+    width: 400px;
+    height: auto;
+    margin-left: 230px;
+    padding: 20px;
+    border: 5px solid darkgreen;
+}
+
+#salmonbowl{
+    width: 400px;
+    height: auto;
+    margin-left: 230px;
+    padding: 20px;
+    border: 5px solid darkgreen;
+}
